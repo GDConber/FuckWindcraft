@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	《风音服务器常用指令》的评论	</title>
+	<atom:link href="https://www.windcraft.cn/?feed=rss2&#038;p=139" rel="self" type="application/rss+xml" />
+	<link>https://www.windcraft.cn/?p=139</link>
+	<description>Minecraft我的世界华人正版公益服务器 &#124; 伺服器</description>
+	<lastBuildDate>Sat, 07 Dec 2019 04:50:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.6</generator>
+			<item>
+				<title>
+				作者：Level -1				</title>
+				<link>https://www.windcraft.cn/?p=139#comment-5</link>
+		<dc:creator><![CDATA[Level -1]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2019 05:44:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.windcraft.cn/?p=139#comment-5</guid>
+					<description><![CDATA[Proudly Powered By Wordpress!!!]]></description>
+		<content:encoded><![CDATA[<p>Proudly Powered By WordPress!!!</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

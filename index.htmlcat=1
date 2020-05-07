@@ -1,0 +1,813 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>服务器资料归档 - 風の音 | WindCraft</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.windcraft.cn/?cat=1" />
+<link rel="next" href="https://www.windcraft.cn/?cat=1&#038;paged=2" />
+<meta property="og:locale" content="zh_CN" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="服务器资料归档 - 風の音 | WindCraft" />
+<meta property="og:url" content="https://www.windcraft.cn/?cat=1" />
+<meta property="og:site_name" content="風の音 | WindCraft" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="服务器资料归档 - 風の音 | WindCraft" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.windcraft.cn/#/schema/person/934adeb065296c20020661f21866a95d","name":"Chinamiao","image":{"@type":"ImageObject","@id":"https://www.windcraft.cn/#personlogo","inLanguage":"zh-CN","url":"https://secure.gravatar.com/avatar/ece88e2ef078d12bd05b58c0b9f9bfc4?s=96&d=mm&r=g","caption":"Chinamiao"},"logo":{"@id":"https://www.windcraft.cn/#personlogo"},"sameAs":[]},{"@type":"WebSite","@id":"https://www.windcraft.cn/#website","url":"https://www.windcraft.cn/","name":"\u98a8\u306e\u97f3 | WindCraft","inLanguage":"zh-CN","description":"Minecraft\u6211\u7684\u4e16\u754c\u534e\u4eba\u6b63\u7248\u516c\u76ca\u670d\u52a1\u5668 | \u4f3a\u670d\u5668","publisher":{"@id":"https://www.windcraft.cn/#/schema/person/934adeb065296c20020661f21866a95d"},"potentialAction":{"@type":"SearchAction","target":"https://www.windcraft.cn/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://www.windcraft.cn/?cat=1#webpage","url":"https://www.windcraft.cn/?cat=1","name":"\u670d\u52a1\u5668\u8d44\u6599\u5f52\u6863 - \u98a8\u306e\u97f3 | WindCraft","isPartOf":{"@id":"https://www.windcraft.cn/#website"},"inLanguage":"zh-CN"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="風の音 | WindCraft &raquo; Feed" href="https://www.windcraft.cn/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="風の音 | WindCraft &raquo; 评论Feed" href="https://www.windcraft.cn/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="風の音 | WindCraft &raquo; 服务器资料分类目录Feed" href="https://www.windcraft.cn/?feed=rss2&#038;cat=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.windcraft.cn\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.windcraft.cn/wp-includes/css/dist/block-library/style.min.css?ver=5.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://www.windcraft.cn/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.windcraft.cn/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='https://www.windcraft.cn/wp-content/themes/twentysixteen/style.css?ver=5.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-block-style-css'  href='https://www.windcraft.cn/wp-content/themes/twentysixteen/css/blocks.css?ver=20181230' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='https://www.windcraft.cn/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='https://www.windcraft.cn/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='https://www.windcraft.cn/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.windcraft.cn/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.windcraft.cn/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.windcraft.cn/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.windcraft.cn/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.windcraft.cn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.windcraft.cn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.6" />
+<!-- Analytics by WP-Statistics v12.6.12 - https://wp-statistics.com/ -->
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://www.windcraft.cn/wp-content/uploads/2019/08/2019-08-12_21.35.38-1.png"); background-position: center bottom; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<link rel="icon" href="https://www.windcraft.cn/wp-content/uploads/2019/08/cropped-NNJJ6LVMC_G81PA5_34Q-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.windcraft.cn/wp-content/uploads/2019/08/cropped-NNJJ6LVMC_G81PA5_34Q-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.windcraft.cn/wp-content/uploads/2019/08/cropped-NNJJ6LVMC_G81PA5_34Q-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.windcraft.cn/wp-content/uploads/2019/08/cropped-NNJJ6LVMC_G81PA5_34Q-270x270.png" />
+</head>
+
+<body class="archive category category-uncategorized category-1 custom-background wp-custom-logo wp-embed-responsive custom-background-image group-blog hfeed">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">跳至内容</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					<a href="https://www.windcraft.cn/" class="custom-logo-link" rel="home"><img width="240" height="240" src="https://www.windcraft.cn/wp-content/uploads/2019/12/H_A@M91VNNAKAQEO.png" class="custom-logo" alt="風の音 | WindCraft" srcset="https://www.windcraft.cn/wp-content/uploads/2019/12/H_A@M91VNNAKAQEO.png 240w, https://www.windcraft.cn/wp-content/uploads/2019/12/H_A@M91VNNAKAQEO-150x150.png 150w" sizes="(max-width: 240px) 85vw, 240px" /></a>
+											<p class="site-title"><a href="https://www.windcraft.cn/" rel="home">風の音 | WindCraft</a></p>
+												<p class="site-description">Minecraft我的世界华人正版公益服务器 | 伺服器</p>
+									</div><!-- .site-branding -->
+
+									<button id="menu-toggle" class="menu-toggle">菜单</button>
+
+					<div id="site-header-menu" class="site-header-menu">
+													<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="主菜单">
+								<div class="menu-123-container"><ul id="menu-123" class="primary-menu"><li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-83"><a href="http://www.windcraft.cn">首页</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="https://www.windcraft.cn/?page_id=64">你好MC玩家｜HELLO</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="https://www.windcraft.cn/?page_id=61">加入服务器｜PLAY</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://www.windcraft.cn/?page_id=276">常见问题 | FAQ</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://www.windcraft.cn/?page_id=58">捐助｜DONATE</a></li>
+<li id="menu-item-293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293"><a href="https://bbs.windcraft.cn">玩家论坛 | BBS</a></li>
+</ul></div>							</nav><!-- .main-navigation -->
+						
+											</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">分类：服务器资料</h1>			</header><!-- .page-header -->
+
+			
+<article id="post-447" class="post-447 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=447" rel="bookmark">建筑服主城引导地图</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<p>欢迎来到建筑服主城，以下是主城简易引导地图！</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/05/QQ图片20200502082348.jpg" alt="" class="wp-image-451" srcset="https://www.windcraft.cn/wp-content/uploads/2020/05/QQ图片20200502082348.jpg 763w, https://www.windcraft.cn/wp-content/uploads/2020/05/QQ图片20200502082348-300x212.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+
+
+
+<p>出生点：建筑服的世界出生点</p>
+
+
+
+<p>食品街：出售食物</p>
+
+
+
+<p>收购商店：较高价格收购一些简单容易获得的物品</p>
+
+
+
+<p>A区：出售基础建筑材料，泥土系列 沙系列 石头系列 木头系列 砖块 冰雪系列
+原矿 矿物方块 交通工具</p>
+
+
+
+<p>B区：出售进阶建筑材料，灯 发光方块 潜影盒 石英 彩色方块（羊毛 混凝土及其粉末
+陶瓷及其烧制后 玻璃）</p>
+
+
+
+<p>C区：出售刷怪蛋 CD 附魔书
+工具盔甲（暂未实装）</p>
+
+
+
+<p>D区：出售系列类方块：海晶系列 下界系列 末地系列 海洋装饰 花草 工具方块
+杂项材料 红石机器类方块</p>
+
+
+
+<p>传送大厅：传送至玩家建筑群（暂未实装） </p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=3">anyiiii</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=447" rel="bookmark"><time class="entry-date published" datetime="2020-05-01T11:50:01+08:00">2020年5月1日</time><time class="updated" datetime="2020-05-02T08:25:51+08:00">2020年5月2日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=447#respond"><span class="screen-reader-text">于建筑服主城引导地图</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-447 -->
+
+<article id="post-441" class="post-441 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=441" rel="bookmark">风音周刊 017期</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/74114465_p0_master1200-732x1024.jpg" alt="" class="wp-image-442" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/74114465_p0_master1200-732x1024.jpg 732w, https://www.windcraft.cn/wp-content/uploads/2020/04/74114465_p0_master1200-215x300.jpg 215w, https://www.windcraft.cn/wp-content/uploads/2020/04/74114465_p0_master1200-768x1074.jpg 768w, https://www.windcraft.cn/wp-content/uploads/2020/04/74114465_p0_master1200.jpg 858w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+
+
+
+<p>小可爱们大家好啊!又到了一周一次的风音周刊时间啦~</p>
+
+
+
+<p>在临时服务器的过渡下，主服终于开启了，在临时服务器我们共同建造了一个简单的小镇，一起提前体验了未来的1.16的多人生存，崭新的下界确实很有意思，无论是从难度上还是丰富度上，类比1.9的末地更新变化更大，现在我们甚至可以只在下界就玩生存。对于新的下界你有什么看法呢？</p>
+
+
+
+<p>风音主服也在新机器的加持下有了很大的提升，在生存服26人同时在线也能有17左右的tps，终于告别了那张表情包了（咱这服务器质量可好了.jpg），希望各位能在新的机器加持下的服务器玩的开心哦！</p>
+
+
+
+<p>另外为了补偿玩家由于网络波动造成的回档损失，生存服也开放了接近两天的玩家飞行的权限。大家是如何利用这次的好机会呢。是肝肝肝自己的新机器，还是肝肝肝自己的建筑，或者飞翔着欣赏家周围的绝妙风景呢？</p>
+
+
+
+<p>风音娘的发展离不开各位的支持哦，无论是游玩，赞助服务器，还是帮助服务器宣传帖子，或者在b站上为服务器的宣传视频点个赞，都能为我们的发展做出贡献！感谢各位的支持哦！</p>
+
+
+
+<p>另外也感谢那些在周六晚上来帮忙建造建筑服商店的小可爱们，虽然因为规划和安排混乱的问题导致了一晚上的工作全部木大，但是也很感谢各位的帮忙！新的建筑服商店基本建设完毕，感谢各位参与帮助的玩家，无论是动手参与还是只是提建议。</p>
+
+
+
+<p>本周的风音周刊就到这里了，感谢各位收看~</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=3">anyiiii</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=441" rel="bookmark"><time class="entry-date published" datetime="2020-04-21T13:27:55+08:00">2020年4月21日</time><time class="updated" datetime="2020-04-21T13:27:57+08:00">2020年4月21日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=441#respond"><span class="screen-reader-text">于风音周刊 017期</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-441 -->
+
+<article id="post-431" class="post-431 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=431" rel="bookmark">风音周刊 016期</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200414090018-1024x1024.jpg" alt="" class="wp-image-432" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200414090018-1024x1024.jpg 1024w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200414090018-150x150.jpg 150w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200414090018-300x300.jpg 300w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200414090018-768x768.jpg 768w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200414090018.jpg 1080w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
+
+
+
+<p>小可爱们大家好！这里是最新一期的风音周刊哦~</p>
+
+
+
+<p>在本周，我们公布了最新的两个服务器——建筑服以及MOD服的玩法~建筑服是新开的档，商店还在建造中哦，请不要着急，在配置好了之后就能愉快地开始你的建筑之旅啦！</p>
+
+
+
+<p>我们的新服务器总算是正式投入了，但是在尝试运行了半天左右发现风冷压不住服务器的发热。由于温度的问题，我们不得不再加装一块水冷，但是所幸需要的钱已经准备完毕，现在只需要等待安装即可，预计在17号左右大家就可以正式开始游玩服务器啦~</p>
+
+
+
+<p>新的MOD服也试运行了大概半天左右，大家的游玩体验如何呢，我们收到了关于mod冰火传说（ice and fire）运行十分占用内存的反馈，所以在后续可能会删除这个mod采用其他的mod来代替玩法，大家如果还有什么其他的想法欢迎反馈哦！</p>
+
+
+
+<p>在本周开始，许多的学校已经陆续开学了，喵酱也不例外，所以，如果你有什么需要请求管理帮助的事（如：家被熊了，需要搬家，其他解决不了的小纠纷等），请优先私信各op。</p>
+
+
+
+<p>在风音不开服的这几天，各位不妨做一点其他的事情来打发时间，比如玩一玩小游戏服，看看视频，玩其他游戏等，总会有好玩的事情等着你的！</p>
+
+
+
+<p> 这段时间实在想玩的可以来临时服游玩哦，服务器是快照的版本，让各位能提早感受一下新版本的多人生存，ip地址请在加入qq群后获取，游戏版本：20w15a ~</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=3">anyiiii</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=431" rel="bookmark"><time class="entry-date published" datetime="2020-04-14T09:37:50+08:00">2020年4月14日</time><time class="updated" datetime="2020-04-14T09:37:52+08:00">2020年4月14日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=431#respond"><span class="screen-reader-text">于风音周刊 016期</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-431 -->
+
+<article id="post-426" class="post-426 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=426" rel="bookmark">风音建筑服规则介绍1.0</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<p><strong>建筑服规则1.0</strong></p>
+
+
+
+<ul><li>建筑服设置的初衷和意义：是作为风音先锋建筑玩家的乐园、梦想实现基地以及风音对外宣传的主战场哦！旨在开发并留存风音玩家的建筑。该建筑服在未来会作为风音的未来活动举办场所，风音的官方活动，可能就在你在建筑服的家里！<strong></strong></li><li>建筑服的特殊设定：</li></ul>
+
+
+
+<p>①建筑服为了在生存体验和建筑便利中平衡，剪除了部分经济类玩法</p>
+
+
+
+<p>②建筑服部分基础材料和罕见建材将采用官方商店投放给玩家，玩家可以通过很简单的方式获得建筑材料</p>
+
+
+
+<p>③玩家进入建筑服不设限制，但若要取得建筑权限需要通过审核</p>
+
+
+
+<p>④由于建筑服低价出售几乎全部物品，建筑服背包与生存服隔离不互通</p>
+
+
+
+<p>⑤一开始的边界为3000，之后会逐步放大边界，暂时不开放下界以及末地。</p>
+
+
+
+<p>⑥游戏难度为困难，关闭天然刷怪。</p>
+
+
+
+<ul><li>关于生存模式的获取：在玩家一开始进入的时候是冒险模式哦！如果你想要正式开始建造一栋属于你自己的建筑，可以联系任意以下op：An_Yi YukariSAMA YuyukoSAMA CallMeDavid获取权限，当然，在正式获得权限之前可能会有一段时间的审核，审核的标准是：</li></ul>
+
+
+
+<p>①在截止审核的前1个月之内在生存服无任何不良行为</p>
+
+
+
+<p>②多为他人考虑不自私自利</p>
+
+
+
+<p>③可以向审核人员描述一下你的计划和想法，也可以展示自己已有的建筑，说不定能更快开始之旅哦！</p>
+
+
+
+<ul><li>关于建筑的一些注意事项：</li></ul>
+
+
+
+<p>①请尽量不要破坏原有的地形，尽量让建筑契合地形。一些常见的破坏地形的行为：填海，过大规模的平地。</p>
+
+
+
+<p>②不要修建空中大平台然后在大平台上建筑，这样会导致地面留下很大一片的阴影！十分影响感官。</p>
+
+
+
+<p>③请不要建设不雅、易引起政治争端、侮辱宗教的建筑。</p>
+
+
+
+<p>④尽量原创（包括但不限于：设计全新的建筑，融合现有常用元素，在mc中再现现实中已有的建筑）。请尽量不要使用投影等自动建筑功能。</p>
+
+
+
+<p>⑤请不要建筑建到一半中途放弃。如果在现实生活中有事或是其他事故导致了这样的情况，请在工地现场显眼处帖告示牌说明，否则过久可能会被拆除。</p>
+
+
+
+<ul><li>如果与他人邻居，不要占用他人已经规划好的用地。</li><li>为了让玩家在游玩时有更好的建筑体验，也为了建筑服能够长期发展：请不要建造机器，尽量不要跑图，不要因为非建筑的目的破坏地表原有的地形。</li><li>在出现“邻居搭建了一个让我受不了的建筑”这样的情况请尽量协商解决，实在协商不能可以向op寻求帮助，解决手段包括结构方块和we等。</li><li>如果不会建筑的话是可以学的！不要轻易地觉得自己只能造火柴盒，每一个建筑大佬都是从火柴盒开始的，如果没有灵感不妨去看看别人的建筑或者去找找教程！</li><li>请不要建筑建到一半中途放弃。如果在现实生活中有事或是其他事故导致了这样的情况，请在工地现场显眼处帖告示牌说明，否则过久可能会被拆除。</li><li>关于公共交通设施.路段的风格尽量保持统一。</li><li>关于warp传送点的设置，玩家可以直接向op申请设置warp点的权限。前提是传送的位置必须有一定规模的建筑。可以参考一周目的小镇系统，但是条件更加宽松！</li></ul>
+
+
+
+<p>最终解释权归风音所有</p>
+
+
+
+<p>——你是否听闻过风的声音~</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200304114934-681x1024.jpg" alt="" class="wp-image-428" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200304114934-681x1024.jpg 681w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200304114934-200x300.jpg 200w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200304114934-768x1154.jpg 768w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200304114934-1200x1804.jpg 1200w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200304114934.jpg 1280w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=3">anyiiii</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=426" rel="bookmark"><time class="entry-date published" datetime="2020-04-12T15:47:05+08:00">2020年4月12日</time><time class="updated" datetime="2020-04-12T16:28:06+08:00">2020年4月12日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=426#respond"><span class="screen-reader-text">于风音建筑服规则介绍1.0</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-426 -->
+
+<article id="post-418" class="post-418 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=418" rel="bookmark">风音的奇妙冒险2.0——一段全新的冒险旅程！</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<p><strong>风音的奇妙冒险2.0——一段全新的冒险旅程！</strong></p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/67091437_p0_master1200.jpg" alt="" class="wp-image-419" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/67091437_p0_master1200.jpg 800w, https://www.windcraft.cn/wp-content/uploads/2020/04/67091437_p0_master1200-241x300.jpg 241w, https://www.windcraft.cn/wp-content/uploads/2020/04/67091437_p0_master1200-768x955.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+
+
+
+<p><strong>模组服介绍：</strong></p>
+
+
+
+<p>噔噔噔噔！（入店音）在经历了一段时间的等待之后，风音模组服计划——风音的奇妙冒险又重新起航！</p>
+
+
+
+<p>在本次的模组服计划中，冒险是最重要的，所以我们并不会添加诸如工业，无尽贪婪之类的科技类模组，本次的模组服主要是以“冰火传说”，“虚无世界”为核心玩法，“车万女仆”，“动物谷”为核心辅助玩法，再加上一些其他的辅助模组构成。</p>
+
+
+
+<p><strong>初步的规则：</strong></p>
+
+
+
+<p>由于虚无世界的维度过于繁多，如果玩家太分散会导致mod服占用的资源急速膨胀。为了在一定程度上缓解这种情况，我们决定官方自己在出生点附近修建传送门，按照一定的规律按时开放不同的维度。同时将关闭能量雕符石的合成，关闭xx纯宝石的互交，请理解！</p>
+
+
+
+<p>动物谷的动物刷新频率过快，我们降低了动物的刷新频率跟刷新密度。</p>
+
+
+
+<p>为了防止女仆mod里p点的堆积，我们在一定程度上降低了女仆mod里怪物的生成频率，每隔一段时间清理一次p点。</p>
+
+
+
+<p>冰与火关闭了龙碰撞的方块破坏，火龙龙息里的爆炸物依旧会破坏方块！请小心使用！</p>
+
+
+
+<p><strong>一些其他的事项：</strong></p>
+
+
+
+<p>现在的模组表列还不是最终版本，在以后，如果你有什么建议加上的小模组或是美化模组可以告诉油咖喱姐姐！如果合适的话就会添加到模组配置的表列的！</p>
+
+
+
+<p>祝各位在新的冒险旅途上，玩的开心！</p>
+
+
+
+<p>你是否听闻过風の声音~</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/78929004_p0_master1200-655x1024.jpg" alt="" class="wp-image-420" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/78929004_p0_master1200-655x1024.jpg 655w, https://www.windcraft.cn/wp-content/uploads/2020/04/78929004_p0_master1200-192x300.jpg 192w, https://www.windcraft.cn/wp-content/uploads/2020/04/78929004_p0_master1200.jpg 767w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=3">anyiiii</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=418" rel="bookmark"><time class="entry-date published" datetime="2020-04-09T20:00:42+08:00">2020年4月9日</time><time class="updated" datetime="2020-04-09T19:53:09+08:00">2020年4月9日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=418#respond"><span class="screen-reader-text">于风音的奇妙冒险2.0——一段全新的冒险旅程！</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-418 -->
+
+<article id="post-412" class="post-412 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=412" rel="bookmark">建筑服：藏在时光之外的微风旋律</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<p><strong>服务器计划——建筑服：藏在时光之外的微风旋律</strong></p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/414335385343fbf268835441a77eca8064388fc1.jpg" alt="" class="wp-image-414" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/414335385343fbf268835441a77eca8064388fc1.jpg 580w, https://www.windcraft.cn/wp-content/uploads/2020/04/414335385343fbf268835441a77eca8064388fc1-300x293.jpg 300w" sizes="(max-width: 580px) 85vw, 580px" /></figure>
+
+
+
+<p><strong>前言：</strong></p>
+
+
+
+<p>时光是毫不留情的。事物在时光中诞生成长，毁灭消失，在这个方块构成的世界中也是如此：玩家的建筑和机器拔地而起，却因为服务器的负载更换周目而消失在历史中，只剩下一个存档供人回味。</p>
+
+
+
+<p>但是我们为什么不能和时光玩一个小小的把戏呢？</p>
+
+
+
+<p><strong>服务器介绍： </strong></p>
+
+
+
+<p>在这个地方，玩家的建筑是不会因为更换周目而消失的——因为，这个服务器甚至不存在换周目这一说法！</p>
+
+
+
+<p>但是，不换周目的前提条件就是，服务器的运行所消耗和占用的资源不能过于庞大。代价就是——在这个服务器不能制造机器，玩家的活动范围有所限制（在一开始世界的范围将会在3000左右）。</p>
+
+
+
+<p>可是不能制造机器和跑图又如何能够获取资源呢，建筑服将会采用一套特别的建筑材料供给方案，让玩家能够轻松而愉快地获得需要的建筑材料！这样大家就不用担心资源的获取问题啦~</p>
+
+
+
+<p>这个服务器的目标是什么呢？没有目标，准确的来说，这是一个解决建筑需求的服务器，在这里，你可以发挥你的想象力，或是自己或是和其他小伙伴一起建造你心仪的建筑！很期待很久很久之后的样子呢~</p>
+
+
+
+<p><strong>玩家进入的方式：</strong></p>
+
+
+
+<p>在建筑服，为了防止玩家的建筑被破坏等潜在问题，玩家最开始在建筑服的模式默认为<strong>冒险模式</strong>，玩家需要在通过审核之后才能变成<strong>生存模式</strong>且获取飞行的功能。通过审核的方式将会有一套专门的审核玩家进入的方案哦！</p>
+
+
+
+<p><strong>建筑服开启的时间以及版本：</strong></p>
+
+
+
+<p>在全新的机器实装之后即可开启，默认版本为1.15.2，在一开始是不开放下界和末地的，在生存服开启新周目之后会同步更新为1.16并且开放下界。并且会随着之后的版本更新而同步更新。</p>
+
+
+
+<p><strong>一些初步的规则：</strong></p>
+
+
+
+<ol><li>请不要制造机器，尽量不要做会堆积实体的结构。</li><li>不要恶意破坏他人的劳动成果，不要偷窃。己所不欲勿施于人。</li><li>不要恶意做出一些很奇怪的结构，比如：高空垫脚石，高空流水，结构单一的高空平台，火柴盒等。</li><li>尽量不要复制粘贴别人的建筑，如果有必要请在显眼的位置（如建筑入口处）贴上告示牌标明原作者。</li><li>服务器的难度暂定为困难且关闭天然刷怪。（完成食物系列的成就进度，战斗系列的成就会想办法让玩家达成）</li></ol>
+
+
+
+<p><strong>玩家建筑的其他用途：</strong></p>
+
+
+
+<p>如果合适的话，玩家的建筑说不定会用于服务器活动的开展场地哦，被选为活动场地的建筑。建筑的主人说不定还会获得风音娘送出的奖励！</p>
+
+
+
+<p>祝各位能够在建筑服找到属于自己的归宿哦~</p>
+
+
+
+<p>你是否听闻过風の声音~</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/74425740_p0_master1200-1024x788.jpg" alt="" class="wp-image-415" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/74425740_p0_master1200-1024x788.jpg 1024w, https://www.windcraft.cn/wp-content/uploads/2020/04/74425740_p0_master1200-300x231.jpg 300w, https://www.windcraft.cn/wp-content/uploads/2020/04/74425740_p0_master1200-768x591.jpg 768w, https://www.windcraft.cn/wp-content/uploads/2020/04/74425740_p0_master1200.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=3">anyiiii</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=412" rel="bookmark"><time class="entry-date published" datetime="2020-04-09T20:00:07+08:00">2020年4月9日</time><time class="updated" datetime="2020-04-09T19:48:57+08:00">2020年4月9日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=412#respond"><span class="screen-reader-text">于建筑服：藏在时光之外的微风旋律</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-412 -->
+
+<article id="post-407" class="post-407 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=407" rel="bookmark">风音周刊 015期</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200407200613-1024x1024.jpg" alt="" class="wp-image-409" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200407200613-1024x1024.jpg 1024w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200407200613-150x150.jpg 150w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200407200613-300x300.jpg 300w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200407200613-768x768.jpg 768w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200407200613.jpg 1080w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
+
+
+
+<p>大家好吖，又到了一周一次的风音周刊时间了！</p>
+
+
+
+<p>由于技术原因，原定于4月5日左右实装的9900k发生了一点意外，正式启用可能会稍微推迟几天，不过过几天就能够体验船新的服务器啦！</p>
+
+
+
+<p>关于模组服，油咖喱姐姐建议大家如果有什么想玩的模组可以发出来哦，如果合适的话就直接加入到新的模组服配置当中去了。当然你也可以自己打包一个整合包上传，尽量在最大程度上满足大家的要求！</p>
+
+
+
+<p> 本周过了清明节，各位的节日过得如何呢，是外出踏青，还是宅在家里打一天游戏呢，有没有祭拜自己的祖先呢。春意已经很浓了，在确保自身安全的情况下也要多外出运动哦~</p>
+
+
+
+<p>为表达全国各族人民对抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞的深切哀悼，国务院今天发布公告，决定2020年4月4日举行全国性哀悼活动。 在此期间，全国和驻外使领馆下半旗志哀，全国停止公共娱乐活动。4月4日10时起，全国人民默哀3分钟，汽车、火车、舰船鸣笛，防空警报鸣响。 </p>
+
+
+
+<p><br>風の音积极响应国务院号召，为此对逝者表示哀悼！并在4月4日0时至24时关服了一天，来表示对逝者深深的哀悼！在此也祝愿国外的疫情可以得到控制！希望海外的华人同胞们可以保护好自己！ 最近海外的疫情形势很不乐观，<s>建议窝在家里玩服务器</s>。</p>
+
+
+
+<p>本周，我们的服务器正式开始在巴哈姆特论坛宣传了！有很多的台湾的小可爱前来游玩我们的服务器了哦，在这也祝各位玩的开心。</p>
+
+
+
+<p>服务器的QQ群人数正式达到了1k人啦，为了庆祝，喵酱开启了一个抽奖活动哦，欢迎大家来参与哦！<s>快进来拉低别人中奖率吧</s>，说不定奖品就是你的了！</p>
+
+
+
+<p>另外夏日祭的场地建设已经初具规模了，在这里剧透一张施工图~</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/2020-04-06_21.41.20-1024x576.png" alt="" class="wp-image-408" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/2020-04-06_21.41.20-1024x576.png 1024w, https://www.windcraft.cn/wp-content/uploads/2020/04/2020-04-06_21.41.20-300x169.png 300w, https://www.windcraft.cn/wp-content/uploads/2020/04/2020-04-06_21.41.20-768x432.png 768w, https://www.windcraft.cn/wp-content/uploads/2020/04/2020-04-06_21.41.20-1200x675.png 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption><br></figcaption></figure>
+
+
+
+<p>本期的风音周刊就到这里啦，感谢各位的收看哦！</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=3">anyiiii</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=407" rel="bookmark"><time class="entry-date published" datetime="2020-04-07T20:21:38+08:00">2020年4月7日</time><time class="updated" datetime="2020-04-07T20:21:39+08:00">2020年4月7日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=407#respond"><span class="screen-reader-text">于风音周刊 015期</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-407 -->
+
+<article id="post-402" class="post-402 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=402" rel="bookmark">为全国牺牲烈士和逝世同胞深切哀悼</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<p> 为表达全国各族人民对抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞的深切哀悼，国务院今天发布公告，决定2020年4月4日举行全国性哀悼活动。 在此期间，全国和驻外使领馆下半旗志哀，全国停止公共娱乐活动。4月4日10时起，全国人民默哀3分钟，汽车、火车、舰船鸣笛，防空警报鸣响。 <br>風の音积极响应国务院号召，为此对逝者表示哀悼！并决定于4月4日0时至24时关服一天，来表示对逝者深深的哀悼！在此也祝愿国外的疫情可以得到控制！希望海外的华人同胞们可以保护好自己！尽量不要外出，窝在家里多玩玩mc多玩玩风音是一个很不错的选择。 </p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/0499E274EEC74407BF324124829BA644.png" alt="" class="wp-image-403" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/0499E274EEC74407BF324124829BA644.png 630w, https://www.windcraft.cn/wp-content/uploads/2020/04/0499E274EEC74407BF324124829BA644-300x159.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/ece88e2ef078d12bd05b58c0b9f9bfc4?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ece88e2ef078d12bd05b58c0b9f9bfc4?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=1">Chinamiao</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=402" rel="bookmark"><time class="entry-date published" datetime="2020-04-04T09:07:22+08:00">2020年4月4日</time><time class="updated" datetime="2020-04-04T09:07:23+08:00">2020年4月4日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=402#respond"><span class="screen-reader-text">于为全国牺牲烈士和逝世同胞深切哀悼</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-402 -->
+
+<article id="post-398" class="post-398 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=398" rel="bookmark">风音周刊 014期</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200401153155.jpg" alt="" class="wp-image-399" srcset="https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200401153155.jpg 687w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200401153155-150x150.jpg 150w, https://www.windcraft.cn/wp-content/uploads/2020/04/QQ图片20200401153155-300x300.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+
+
+
+<p>今天是4月1日，首先祝大家节日快乐！（？）</p>
+
+
+
+<p>上次有人反应风音周刊一期的内容是在是太少了，仔细想一想还真是这样，<s>所以这次让我来稍微的凑一凑字数好了！</s></p>
+
+
+
+<p>服务器的新机器已经快要部署完毕啦~在本月的月初就可以进行使用了，相信大家一定会有一个更好的游戏体验！在这里再次感谢各位小可爱们的支持和捐助，风音一定会变得越来越好的！</p>
+
+
+
+<p>在本周，油咖喱姐姐组织了一众人拍摄了服务器的小镇宣传片，如果还没有看的话请务必前去支持哦，要是能三连就更好了！</p>
+
+
+
+<p>一个充满肝帝的公益服半年之后会变成什么样？Part1：</p>
+
+
+
+<p><a href="https://www.bilibili.com/video/BV1p7411C77j"> https://www.bilibili.com/video/BV1p7411C77j</a></p>
+
+
+
+<p> 一个充满肝帝的公益服半年之后会变成什么样？Part2：</p>
+
+
+
+<p><a href="https://www.bilibili.com/video/BV1H741197DP">https://www.bilibili.com/video/BV1H741197DP</a></p>
+
+
+
+<p>特别感谢拍摄者he12138以及后期forpleuvoir</p>
+
+
+
+<p>此外，在MCBBS上我们的服务器宣传帖子遭受到了一些风波，万幸是 DreamsDeductive小可爱帮助我们重新发布了新的宣传帖子，在这里特别感谢这位小可爱！</p>
+
+
+
+<p>关于新周目，我们将会尝试试行一个喵酱一直由于各种原因咕咕咕的计划。关于特色玩法的规则已经初步探讨完毕，到时候也欢迎各位前来游玩哦~</p>
+
+
+
+<p>最近新冠病毒疫情在国外爆发较为严重，国外的小可爱们一定要注意清洁卫生，尽量不外出，不到人流密集的地方去。勤洗手多通风，带好口罩。当然也不能忘了锻炼！适当的运动也有益于身体的抵抗力哦！</p>
+
+
+
+<p>本期的内容就到这里啦，感谢收看哟~下周再见</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/29d1a6a01a1f748736b97680afd2d870?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=3">anyiiii</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=398" rel="bookmark"><time class="entry-date published" datetime="2020-04-01T15:50:37+08:00">2020年4月1日</time><time class="updated" datetime="2020-04-01T15:50:43+08:00">2020年4月1日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=398#respond"><span class="screen-reader-text">于风音周刊 014期</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-398 -->
+
+<article id="post-393" class="post-393 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+		<h2 class="entry-title"><a href="https://www.windcraft.cn/?p=393" rel="bookmark">风音9900k主机众筹结束~</a></h2>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<p> 过段时间小可爱们就可以在9900k机子里面愉快的游戏啦！<br>主机相关配置以及详细价格：CPU：i9 9900kf 京东官方：3599 主板：TUF Z390M-GAMING PRO(WIFI) 咸鱼 970 内存：威刚ddr4 3200 16gx4 咸鱼1560 硬盘：已经有了三星的500g固态 还需要购买2tWD黑盘 淘宝：274元 散热：熙德热传服务器专用散热 淘宝：112 机箱：联志1U服务器专用机箱 淘宝：225 电源：台达1U服务器电源500W 淘宝：98 <br>CPU开盖：淘宝200元<br>感谢大家对我们的支持！我们也会届时做出更多新玩法内容，目前已经在筹备新的特色服了！ </p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.windcraft.cn/wp-content/uploads/2020/03/82CDF9DDB80945B08256A02B2E1F8532.jpg" alt="" class="wp-image-394" srcset="https://www.windcraft.cn/wp-content/uploads/2020/03/82CDF9DDB80945B08256A02B2E1F8532.jpg 640w, https://www.windcraft.cn/wp-content/uploads/2020/03/82CDF9DDB80945B08256A02B2E1F8532-150x150.jpg 150w, https://www.windcraft.cn/wp-content/uploads/2020/03/82CDF9DDB80945B08256A02B2E1F8532-300x300.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></figure>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://secure.gravatar.com/avatar/ece88e2ef078d12bd05b58c0b9f9bfc4?s=49&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ece88e2ef078d12bd05b58c0b9f9bfc4?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">作者 </span> <a class="url fn n" href="https://www.windcraft.cn/?author=1">Chinamiao</a></span></span><span class="posted-on"><span class="screen-reader-text">发布于 </span><a href="https://www.windcraft.cn/?p=393" rel="bookmark"><time class="entry-date published" datetime="2020-03-31T10:12:13+08:00">2020年3月31日</time><time class="updated" datetime="2020-03-31T10:12:14+08:00">2020年3月31日</time></a></span><span class="cat-links"><span class="screen-reader-text">分类 </span><a href="https://www.windcraft.cn/?cat=1" rel="category">服务器资料</a></span><span class="comments-link"><a href="https://www.windcraft.cn/?p=393#respond"><span class="screen-reader-text">于风音9900k主机众筹结束~</span>留下评论</a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-393 -->
+
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">文章导航</h2>
+		<div class="nav-links"><span aria-current='page' class='page-numbers current'><span class="meta-nav screen-reader-text">页 </span>1</span>
+<a class='page-numbers' href='https://www.windcraft.cn/?paged=2&#038;cat=1'><span class="meta-nav screen-reader-text">页 </span>2</a>
+<a class="next page-numbers" href="https://www.windcraft.cn/?paged=2&#038;cat=1">下一页</a></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="search-4" class="widget widget_search">
+<form role="search" method="get" class="search-form" action="https://www.windcraft.cn/">
+	<label>
+		<span class="screen-reader-text">搜索：</span>
+		<input type="search" class="search-field" placeholder="搜索…" value="" name="s" />
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">搜索</span></button>
+</form>
+</section><section id="categories-2" class="widget widget_categories"><h2 class="widget-title">分类目录</h2>		<ul>
+				<li class="cat-item cat-item-7"><a href="https://www.windcraft.cn/?cat=7">服务器其他</a> (6)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://www.windcraft.cn/?cat=5">服务器文案</a> (3)
+</li>
+	<li class="cat-item cat-item-6"><a href="https://www.windcraft.cn/?cat=6">服务器更新</a> (7)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://www.windcraft.cn/?cat=4">服务器活动</a> (10)
+</li>
+	<li class="cat-item cat-item-1 current-cat"><a href="https://www.windcraft.cn/?cat=1">服务器资料</a> (17)
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.windcraft.cn/?cat=9">风音周刊</a> (11)
+</li>
+		</ul>
+			</section>		<section id="recent-posts-4" class="widget widget_recent_entries">		<h2 class="widget-title">近期文章</h2>		<ul>
+											<li>
+					<a href="https://www.windcraft.cn/?p=447">建筑服主城引导地图</a>
+									</li>
+											<li>
+					<a href="https://www.windcraft.cn/?p=441">风音周刊 017期</a>
+									</li>
+											<li>
+					<a href="https://www.windcraft.cn/?p=431">风音周刊 016期</a>
+									</li>
+											<li>
+					<a href="https://www.windcraft.cn/?p=426">风音建筑服规则介绍1.0</a>
+									</li>
+											<li>
+					<a href="https://www.windcraft.cn/?p=418">风音的奇妙冒险2.0——一段全新的冒险旅程！</a>
+									</li>
+					</ul>
+		</section><section id="media_audio-3" class="widget widget_media_audio"><h2 class="widget-title">一边听BGM 一边看网站哦~</h2><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-393-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://www.windcraft.cn/wp-content/uploads/2019/12/別野加奈-キネマ.mp3?_=1" /><source type="audio/mpeg" src="http://www.windcraft.cn/wp-content/uploads/2019/12/別野加奈-キネマ.mp3?_=1" /><a href="https://www.windcraft.cn/wp-content/uploads/2019/12/別野加奈-キネマ.mp3">https://www.windcraft.cn/wp-content/uploads/2019/12/別野加奈-キネマ.mp3</a></audio></section><section id="media_video-5" class="widget widget_media_video"><h2 class="widget-title">风音宣传片</h2><div style="width:100%;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-393-1" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.windcraft.cn/wp-content/uploads/2019/12/风音片头.mp4?_=1" /><source type="video/mp4" src="http://www.windcraft.cn/wp-content/uploads/2019/12/风音片头.mp4?_=1" /><a href="https://www.windcraft.cn/wp-content/uploads/2019/12/风音片头.mp4">https://www.windcraft.cn/wp-content/uploads/2019/12/风音片头.mp4</a></video></div></section><section id="custom_html-5" class="widget_text widget widget_custom_html"><h2 class="widget-title">友情链接</h2><div class="textwidget custom-html-widget"><a href="https://www.yinwurealm.org/">www.yinwurealm.org</a>
+-YinwuRealm
+<a href="https://bbs.nightsakura.club/">bbs.nightsakura.club</a>
+-NightSakura夜桜社
+<a href="https://miaoscraft.cn/">miaoscraft.cn</a>
+-Miaoscraft<br>
+<a
+href="https://miangame.com/"> miangame.com</a>
+-MiAnGAME
+
+</div></section><section id="custom_html-6" class="widget_text widget widget_custom_html"><h2 class="widget-title">服务器工具</h2><div class="textwidget custom-html-widget"><a href="http://s1.wdcc.cloud:6003/">服务器统计插件</a>
+
+
+<br><a href="http://wind.stevewolf.cn:6002/">服务器卫星地图</a></div></section><section id="text-6" class="widget widget_text">			<div class="textwidget"><p>Copyright © 2019-2020 風の音版权所有                   你是否听闻过風の声音~                                                 windcraft.cn</p>
+</div>
+		</section>	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+							<nav class="main-navigation" role="navigation" aria-label="页脚主菜单">
+					<div class="menu-123-container"><ul id="menu-124" class="primary-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-83"><a href="http://www.windcraft.cn">首页</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="https://www.windcraft.cn/?page_id=64">你好MC玩家｜HELLO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="https://www.windcraft.cn/?page_id=61">加入服务器｜PLAY</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://www.windcraft.cn/?page_id=276">常见问题 | FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://www.windcraft.cn/?page_id=58">捐助｜DONATE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293"><a href="https://bbs.windcraft.cn">玩家论坛 | BBS</a></li>
+</ul></div>				</nav><!-- .main-navigation -->
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="https://www.windcraft.cn/" rel="home">風の音 | WindCraft</a></span>
+								</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<link rel='stylesheet' id='mediaelement-css'  href='https://www.windcraft.cn/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.windcraft.cn/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.2.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.windcraft.cn/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"\u5c55\u5f00\u5b50\u83dc\u5355","collapse":"\u6298\u53e0\u5b50\u83dc\u5355"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.windcraft.cn/wp-content/themes/twentysixteen/js/functions.js?ver=20181230'></script>
+<script type='text/javascript' src='https://www.windcraft.cn/wp-includes/js/wp-embed.min.js?ver=5.2.6'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"zh","strings":{"mejs.install-flash":"\u60a8\u6b63\u5728\u4f7f\u7528\u7684\u6d4f\u89c8\u5668\u672a\u5b89\u88c5\u6216\u542f\u7528Flash\u64ad\u653e\u5668\uff0c\u8bf7\u542f\u7528\u60a8\u7684Flash\u64ad\u653e\u5668\u63d2\u4ef6\uff0c\u6216\u4ece https:\/\/get.adobe.com\/flashplayer\/ \u4e0b\u8f7d\u6700\u65b0\u7248\u3002","mejs.fullscreen-off":"\u5173\u95ed\u5168\u5c4f","mejs.fullscreen-on":"\u5168\u5c4f","mejs.download-video":"\u4e0b\u8f7d\u89c6\u9891","mejs.fullscreen":"\u5168\u5c4f","mejs.time-jump-forward":["\u524d\u8fdb1\u79d2","\u524d\u8fdb%1\u79d2"],"mejs.loop":"\u5207\u6362\u5faa\u73af","mejs.play":"\u64ad\u653e","mejs.pause":"\u6682\u505c","mejs.close":"\u5173\u95ed","mejs.time-slider":"\u65f6\u95f4\u8f74","mejs.time-help-text":"\u4f7f\u7528\u5de6\/\u53f3\u7bad\u5934\u952e\u6765\u524d\u8fdb\u4e00\u79d2\uff0c\u4e0a\/\u4e0b\u7bad\u5934\u952e\u6765\u524d\u8fdb\u5341\u79d2\u3002","mejs.time-skip-back":["\u540e\u90001\u79d2","\u8df3\u56de%1\u79d2"],"mejs.captions-subtitles":"\u5b57\u5e55","mejs.captions-chapters":"\u7ae0\u8282","mejs.none":"\u65e0","mejs.mute-toggle":"\u5207\u6362\u9759\u97f3","mejs.volume-help-text":"\u4f7f\u7528\u4e0a\/\u4e0b\u7bad\u5934\u952e\u6765\u589e\u9ad8\u6216\u964d\u4f4e\u97f3\u91cf\u3002","mejs.unmute":"\u53d6\u6d88\u9759\u97f3","mejs.mute":"\u9759\u97f3","mejs.volume-slider":"\u97f3\u91cf","mejs.video-player":"\u89c6\u9891\u64ad\u653e\u5668","mejs.audio-player":"\u97f3\u9891\u64ad\u653e\u5668","mejs.ad-skip":"\u8df3\u8fc7\u5e7f\u544a","mejs.ad-skip-info":["1\u79d2\u540e\u8df3\u8fc7","%1\u79d2\u540e\u8df3\u8fc7"],"mejs.source-chooser":"\u9009\u62e9\u6765\u6e90","mejs.stop":"\u505c\u6b62","mejs.speed-rate":"\u901f\u5ea6","mejs.live-broadcast":"\u73b0\u573a\u76f4\u64ad","mejs.afrikaans":"\u5357\u975e\u8377\u5170\u8bed","mejs.albanian":"\u963f\u5c14\u5df4\u5c3c\u4e9a\u8bed","mejs.arabic":"\u963f\u62c9\u4f2f\u8bed","mejs.belarusian":"\u767d\u4fc4\u7f57\u65af\u8bed","mejs.bulgarian":"\u4fdd\u52a0\u5229\u4e9a\u8bed","mejs.catalan":"\u52a0\u6cf0\u7f57\u5c3c\u4e9a\u8bed","mejs.chinese":"\u4e2d\u6587","mejs.chinese-simplified":"\u7b80\u4f53\u4e2d\u6587","mejs.chinese-traditional":"\u7e41\u4f53\u4e2d\u6587","mejs.croatian":"\u514b\u7f57\u5730\u4e9a\u8bed","mejs.czech":"\u6377\u514b\u8bed","mejs.danish":"\u4e39\u9ea6\u8bed","mejs.dutch":"\u8377\u5170\u8bed","mejs.english":"\u82f1\u8bed","mejs.estonian":"\u7231\u6c99\u5c3c\u4e9a\u8bed","mejs.filipino":"\u83f2\u5f8b\u5bbe\u8bed","mejs.finnish":"\u82ac\u5170\u8bed","mejs.french":"\u6cd5\u8bed","mejs.galician":"\u52a0\u5229\u897f\u4e9a\u8bed","mejs.german":"\u5fb7\u8bed","mejs.greek":"\u5e0c\u814a\u8bed","mejs.haitian-creole":"\u6d77\u5730\u514b\u91cc\u5965\u5c14\u8bed","mejs.hebrew":"\u5e0c\u4f2f\u6765\u8bed","mejs.hindi":"\u5370\u5730\u8bed","mejs.hungarian":"\u5308\u7259\u5229\u8bed","mejs.icelandic":"\u51b0\u5c9b\u8bed","mejs.indonesian":"\u5370\u5ea6\u5c3c\u897f\u4e9a\u8bed","mejs.irish":"\u7231\u5c14\u5170\u8bed","mejs.italian":"\u610f\u5927\u5229\u8bed","mejs.japanese":"\u65e5\u8bed","mejs.korean":"\u97e9\u8bed","mejs.latvian":"\u62c9\u8131\u7ef4\u4e9a\u8bed","mejs.lithuanian":"\u7acb\u9676\u5b9b\u8bed","mejs.macedonian":"\u9a6c\u5176\u987f\u8bed","mejs.malay":"\u9a6c\u6765\u8bed","mejs.maltese":"\u9a6c\u8033\u4ed6\u8bed","mejs.norwegian":"\u632a\u5a01\u8bed","mejs.persian":"\u6ce2\u65af\u8bed","mejs.polish":"\u6ce2\u5170\u8bed","mejs.portuguese":"\u8461\u8404\u7259\u8bed","mejs.romanian":"\u7f57\u9a6c\u5c3c\u4e9a\u8bed","mejs.russian":"\u4fc4\u8bed","mejs.serbian":"\u585e\u5c14\u7ef4\u4e9a\u8bed","mejs.slovak":"\u65af\u6d1b\u4f10\u514b\u8bed","mejs.slovenian":"\u65af\u6d1b\u6587\u5c3c\u4e9a\u8bed","mejs.spanish":"\u897f\u73ed\u7259\u8bed","mejs.swahili":"\u65af\u74e6\u5e0c\u91cc\u8bed","mejs.swedish":"\u745e\u5178\u8bed","mejs.tagalog":"\u4ed6\u52a0\u7984\u8bed","mejs.thai":"\u6cf0\u8bed","mejs.turkish":"\u571f\u8033\u5176\u8bed","mejs.ukrainian":"\u4e4c\u514b\u5170\u8bed","mejs.vietnamese":"\u8d8a\u5357\u8bed","mejs.welsh":"\u5a01\u5c14\u58eb\u8bed","mejs.yiddish":"\u610f\u7b2c\u7eea\u8bed"}};
+</script>
+<script type='text/javascript' src='https://www.windcraft.cn/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='https://www.windcraft.cn/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.2.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.windcraft.cn/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='https://www.windcraft.cn/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.6-78496d1'></script>
+</body>
+</html>
